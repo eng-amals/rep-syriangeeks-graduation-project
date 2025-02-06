@@ -1,0 +1,105 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Comfort Handy Craft Chair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/2yC5CD6",
+        "description": "A comfortable handy craft chair perfect for your living room.",
+        "brand": "Comfort"
+      },
+      {
+        "id": "2",
+        "name": "Yellow Comfort Chair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/vZfqBNv",
+        "description": "A stylish and comfortable yellow chair for your home.",
+        "brand": "StyleCraft"
+      },
+      {
+        "id": "3",
+        "name": "White Handy Chair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/KLk1LHV",
+        "description": "A modern white chair designed for elegance and comfort.",
+        "brand": "HandyCraft"
+      },
+      {
+        "id": "4",
+        "name": "Luxury Grey Armchair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/Kzn58zR",
+        "description": "A luxurious grey armchair that adds sophistication to any space.",
+        "brand": "LuxCraft"
+      },
+      {
+        "id": "5",
+        "name": "Black and Red Chair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/S6vwjgM",
+        "description": "A bold black and red chair for your modern home.",
+        "brand": "BoldCraft"
+      },
+      {
+        "id": "6",
+        "name": "Classic Beige Chair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/kqBSc3R",
+        "description": "A classic beige chair that fits perfectly in any setting.",
+        "brand": "ClassicCraft"
+      },
+      {
+        "id": "7",
+        "name": "Elegant Wooden Chair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/KrZf2RS",
+        "description": "An elegant wooden chair with a modern twist.",
+        "brand": "Elegance"
+      },
+      {
+        "id": "8",
+        "name": "Comfy Armchair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/GWCc6J1",
+        "description": "A comfy armchair for relaxation and style.",
+        "brand": "Comfort"
+      },
+      {
+        "id": "9",
+        "name": "Modern White Chair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/Xyy4zfJ",
+        "description": "A modern white chair for a minimalistic look.",
+        "brand": "ModernCraft"
+      },
+      {
+        "id": "10",
+        "name": "Stylish Beige Chair",
+        "category": "Furniture",
+        "price": 42.00,
+        "discount_price": 65.00,
+        "image_url": "https://ibb.co/D8JNrgQ",
+        "description": "A stylish beige chair designed for comfort and elegance.",
+        "brand": "StyleCraft"
+      }
+    ]
+  }
+  
